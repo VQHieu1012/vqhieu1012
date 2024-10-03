@@ -52,14 +52,15 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://streak-stats.demolab.com/?user=vqhieu1012&show_icons=true&theme=react&rank_icon=github&border_radius=10" style="height: 200px;" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vqhieu1012&show_icons=true&theme=react&rank_icon=github&border_radius=10" style="height: 200px;" alt="Readme Stats" />
+<div align="center">
+  <img  src="https://streak-stats.demolab.com/?user=vqhieu1012&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Streak"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=vqhieu1012&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats"/>
 </div>
 <br/>
 <div align="center">
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vqhieu1012&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vqhieu1012&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
 
 
 <br/><br/>
