@@ -43,7 +43,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vqhieu1012/vqhieu1012/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/VQHieu1012/vqhieu1012/blob/output/github-contribution-grid-snake.gif" />
   
   <br/><br/><br/>
 </div>
@@ -60,10 +60,5 @@
   <img width="400" height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vqhieu1012&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-
-
-<br/><br/>
-
 <hr/>
-
 <br/>
