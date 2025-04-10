@@ -12,7 +12,7 @@
  
  [//]: # (🔭 I’m currently working on **a marketplace**)
  
- 🌱 I’m currently learning **Database Administrator**
+ 🌱 I’m currently learning **Data Engineer**
 
 💬 Ask me about **Web Scraping, Bypass Bot Detection**
 
